@@ -59,6 +59,23 @@ This approach combines a regression model (Random Forest Regression) and a forec
 - Plots comparing the predictions of both approaches are generated and saved as "combined_results_subplots.png."
 
 
+
+## Results & Plots
+
+### Rsults for Approach 1:
+![results_plot_Approach_1](https://github.com/ahmad2246/EE491-Project/assets/130466567/a62e6658-dbc4-494c-8c09-b5b1cab41c3d)
+
+![results_1](https://github.com/ahmad2246/EE491-Project/assets/130466567/62af0c67-b635-4178-9a92-04a57a0f2f1d)
+
+
+
+### Results for Approach 1 vs Approach 2:
+![combined_results_subplots](https://github.com/ahmad2246/EE491-Project/assets/130466567/6b18d6fd-4e77-4c55-835f-1cb8c1a29118)
+
+![results_2](https://github.com/ahmad2246/EE491-Project/assets/130466567/bfc951a0-0acf-43f4-b6b8-9db37ef65571)
+
+
+
 ## Usage
 1. Ensure the required libraries are installed.
 
